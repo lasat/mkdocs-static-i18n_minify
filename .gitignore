@@ -1,0 +1,5 @@
+public
+*.swp
+__pycache__
+.envrc
+.venv/

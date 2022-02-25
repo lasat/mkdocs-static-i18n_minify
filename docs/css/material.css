@@ -1,0 +1,17 @@
+:root {
+     --md-primary-fg-color: rgb(0, 101, 150);
+}
+
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+    width: auto;
+    height: 3rem;
+}
+.md-tabs__item {
+    height: 1.2rem;
+}
+.md-tabs__link {
+    margin-top: 0;
+}
+
+
